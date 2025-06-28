@@ -1,6 +1,6 @@
 # CompuZone - Computer Components Educational Website
 
-![Website Screenshot](assets/img/hero-img.png)
+![Website Screenshot](assets/img/favicon.png)
 
 CompuZone is an educational website designed to teach users about various computer components and peripherals. It features detailed information about computer hardware, interactive quizzes, and a feedback system.
 
