@@ -6,7 +6,7 @@ CompuZone is an educational website designed to teach users about various comput
 
 ## 🌐 Live Demo
 Access the website at:  
-http://info.tm.edu.ro:8088/~aemandi/Site%20Atestat/
+http://info.tm.edu.ro:8088/~aemandi/Compuzone/
 
 ## ✨ Features
 - **Responsive Design**: Works on mobile, tablet, and desktop devices
